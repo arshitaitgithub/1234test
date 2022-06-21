@@ -1,0 +1,65 @@
+1.    IN the below elements which of them are values or an expression?
+   ex:-values can be an integer or string and expressions will be mathematical
+    operators.
+
+    solution:-
+              
+                 * - expression
+                 " hello" - value
+                -87.8 - values
+                - - expression 
+                / - expression  
+
+                +  - expression
+
+                6 - value
+
+2.  what is the difference between string and variable?
+
+    solution:- 
+
+              string can be written in quotes as mention
+               "arshita" (or) 'arshita'
+
+               arshita is a thing which helps in holding a data in entity.
+
+3.  deacribe three different data forms ?
+
+         solution :- 
+                   int, float, list,complex
+
+4. what is an expression made up of? what do all expressions do?
+
+                  solution:-
+
+                         expression is made of values,containers , and mathematical operators
+
+5. this assignment statements ,like spam = what is difference between an expression and a satement?
+ 
+         solution :- 
+                       as we discussed above , expressions are values,containers, and mathematical operators.
+                              where as , satements is like a coomand which python executes like list.
+
+
+6. after running the followng code, what does the variable bacon contain?
+
+                      'spam'+'spamspam' 'spam'*3
+                            same
+
+8. why is eggs a valid vriable name while 100 is ivaild?
+      
+       solution:-
+               because we can't give a intger name to a variable.
+
+9. what three functions can be used to get the intger , floating -point number , or string version of a value?
+
+    solution;- 
+                 string()int9()float()
+
+10. why doesthis expression cause an error? how can you fix it?
+
+          i have eaten '+ 99+'buttons'
+      soluton:-
+
+                  because 99 is a intger it can not be connected with strings.
+                        typecasting should be done.
